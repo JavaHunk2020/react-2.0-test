@@ -22,6 +22,9 @@ Access the application using below URL
 http://localhost:3000/
 
 
+Step-6
+Running the test cases
+npm run test
 
 
 "# react-2.0-test" 
